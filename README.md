@@ -1,4 +1,4 @@
-### A Simple Codebase for Clothes-Changing Person Re-identification.
+### A Simple Codebase for Clothes-generalized Person Re-identification.
 ####  [Cloth-aware Augmentation for Cloth-generalized Person Re-identification (ACMMM, 2024)]
 #### We provide the essential code snippets for domain augmentation and feature augmentation, which can be easily integrated into various baseline methods to enhance their generalization ability. We give an example code integrated with CAL(Clothes-Changing Person Re-identification with RGB Modality Only (CVPR, 2022)).
 
